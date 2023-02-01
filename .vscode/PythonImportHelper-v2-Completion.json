@@ -1,0 +1,565 @@
+[
+    {
+        "label": "subprocess,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess.",
+        "description": "subprocess.",
+        "detail": "subprocess.",
+        "documentation": {}
+    },
+    {
+        "label": "git",
+        "importPath": "lib.git",
+        "description": "lib.git",
+        "isExtraImport": true,
+        "detail": "lib.git",
+        "documentation": {}
+    },
+    {
+        "label": "git",
+        "importPath": "lib.git",
+        "description": "lib.git",
+        "isExtraImport": true,
+        "detail": "lib.git",
+        "documentation": {}
+    },
+    {
+        "label": "git",
+        "importPath": "lib.git",
+        "description": "lib.git",
+        "isExtraImport": true,
+        "detail": "lib.git",
+        "documentation": {}
+    },
+    {
+        "label": "git",
+        "importPath": "lib.git",
+        "description": "lib.git",
+        "isExtraImport": true,
+        "detail": "lib.git",
+        "documentation": {}
+    },
+    {
+        "label": "git",
+        "importPath": "lib.git",
+        "description": "lib.git",
+        "isExtraImport": true,
+        "detail": "lib.git",
+        "documentation": {}
+    },
+    {
+        "label": "git",
+        "importPath": "lib.git",
+        "description": "lib.git",
+        "isExtraImport": true,
+        "detail": "lib.git",
+        "documentation": {}
+    },
+    {
+        "label": "git",
+        "importPath": "lib.git",
+        "description": "lib.git",
+        "isExtraImport": true,
+        "detail": "lib.git",
+        "documentation": {}
+    },
+    {
+        "label": "os,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.",
+        "description": "os.",
+        "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "urllib",
+        "description": "urllib",
+        "isExtraImport": true,
+        "detail": "urllib",
+        "documentation": {}
+    },
+    {
+        "label": "aestclockProcess",
+        "importPath": "lib.aestheticclock",
+        "description": "lib.aestheticclock",
+        "isExtraImport": true,
+        "detail": "lib.aestheticclock",
+        "documentation": {}
+    },
+    {
+        "label": "burnMyWindows",
+        "importPath": "lib.burnmywindows",
+        "description": "lib.burnmywindows",
+        "isExtraImport": true,
+        "detail": "lib.burnmywindows",
+        "documentation": {}
+    },
+    {
+        "label": "develPackages",
+        "importPath": "lib.devel",
+        "description": "lib.devel",
+        "isExtraImport": true,
+        "detail": "lib.devel",
+        "documentation": {}
+    },
+    {
+        "label": "figma_linux",
+        "importPath": "lib.figma",
+        "description": "lib.figma",
+        "isExtraImport": true,
+        "detail": "lib.figma",
+        "documentation": {}
+    },
+    {
+        "label": "mirrorList",
+        "importPath": "lib.mirrorlist",
+        "description": "lib.mirrorlist",
+        "isExtraImport": true,
+        "detail": "lib.mirrorlist",
+        "documentation": {}
+    },
+    {
+        "label": "OneDrive",
+        "importPath": "lib.onedrive",
+        "description": "lib.onedrive",
+        "isExtraImport": true,
+        "detail": "lib.onedrive",
+        "documentation": {}
+    },
+    {
+        "label": "OneDriveGui",
+        "importPath": "lib.onedrivegui",
+        "description": "lib.onedrivegui",
+        "isExtraImport": true,
+        "detail": "lib.onedrivegui",
+        "documentation": {}
+    },
+    {
+        "label": "packageManager",
+        "importPath": "lib.packagemanager",
+        "description": "lib.packagemanager",
+        "isExtraImport": true,
+        "detail": "lib.packagemanager",
+        "documentation": {}
+    },
+    {
+        "label": "purpleBitches",
+        "importPath": "lib.purpleBitches",
+        "description": "lib.purpleBitches",
+        "isExtraImport": true,
+        "detail": "lib.purpleBitches",
+        "documentation": {}
+    },
+    {
+        "label": "simpleLauncher",
+        "importPath": "lib.simplestupidlauncher",
+        "description": "lib.simplestupidlauncher",
+        "isExtraImport": true,
+        "detail": "lib.simplestupidlauncher",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMonitor",
+        "importPath": "lib.systemMonitor",
+        "description": "lib.systemMonitor",
+        "isExtraImport": true,
+        "detail": "lib.systemMonitor",
+        "documentation": {}
+    },
+    {
+        "label": "aestclockProcess",
+        "kind": 2,
+        "importPath": "lib.aestheticclock",
+        "description": "lib.aestheticclock",
+        "peekOfCode": "def aestclockProcess(self):\n    pathDir=\"tmp/aestheticClock\"\n    if os.path.exists(pathDir) == True:\n        shutil.rmtree(pathDir, ignore_errors=False, onerror=None)\n    if os.path.exists(f\"{plasmoidPath}/com.github.prayag2.aestheticclock\") == True:\n        shutil.rmtree(f\"{plasmoidPath}/com.github.prayag2.aestheticclock\", ignore_errors=False, onerror=None)\n    git(f\"https://github.com/prayag2/kde_aestheticclock {pathDir}\")\n    os.chdir(pathDir)\n    subprocess.run(\"kpackagetool5 -i package\", shell=True)\n    os.chdir(\"../..\")",
+        "detail": "lib.aestheticclock",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 5,
+        "importPath": "lib.aestheticclock",
+        "description": "lib.aestheticclock",
+        "peekOfCode": "home = os.path.expanduser( '~' )\nplasmoidPath=f\"{home}/.local/share/plasma/plasmoids\"\ndef aestclockProcess(self):\n    pathDir=\"tmp/aestheticClock\"\n    if os.path.exists(pathDir) == True:\n        shutil.rmtree(pathDir, ignore_errors=False, onerror=None)\n    if os.path.exists(f\"{plasmoidPath}/com.github.prayag2.aestheticclock\") == True:\n        shutil.rmtree(f\"{plasmoidPath}/com.github.prayag2.aestheticclock\", ignore_errors=False, onerror=None)\n    git(f\"https://github.com/prayag2/kde_aestheticclock {pathDir}\")\n    os.chdir(pathDir)",
+        "detail": "lib.aestheticclock",
+        "documentation": {}
+    },
+    {
+        "label": "burnMyWindows",
+        "kind": 2,
+        "importPath": "lib.burnmywindows",
+        "description": "lib.burnmywindows",
+        "peekOfCode": "def burnMyWindows(self):\n    pathDir=\"tmp\"\n    subprocess.run(\"rm -rf tmp/*\", shell=True)\n    if os.path.exists(f\"{home}/.local/share/kwin/effects\"):\n        shutil.rmtree(f\"{home}/.local/share/kwin/effects\")\n    subprocess.run(f\"wget {link} -P {pathDir}\", shell=True)\n    os.chdir(pathDir)\n    subprocess.run(f\"mkdir -p {home}/.local/share/kwin/effects\", shell=True)\n    subprocess.run(f\"tar -xf {pkg} -C {home}/.local/share/kwin/effects\", shell=True)\n    os.chdir(\"..\")",
+        "detail": "lib.burnmywindows",
+        "documentation": {}
+    },
+    {
+        "label": "link",
+        "kind": 5,
+        "importPath": "lib.burnmywindows",
+        "description": "lib.burnmywindows",
+        "peekOfCode": "link = \"https://github.com/Schneegans/Burn-My-Windows/releases/latest/download/burn_my_windows_kwin4.tar.gz\"\nhome = os.path.expanduser( '~' )\npkg=\"burn_my_windows_kwin4.tar.gz\"\ndef burnMyWindows(self):\n    pathDir=\"tmp\"\n    subprocess.run(\"rm -rf tmp/*\", shell=True)\n    if os.path.exists(f\"{home}/.local/share/kwin/effects\"):\n        shutil.rmtree(f\"{home}/.local/share/kwin/effects\")\n    subprocess.run(f\"wget {link} -P {pathDir}\", shell=True)\n    os.chdir(pathDir)",
+        "detail": "lib.burnmywindows",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 5,
+        "importPath": "lib.burnmywindows",
+        "description": "lib.burnmywindows",
+        "peekOfCode": "home = os.path.expanduser( '~' )\npkg=\"burn_my_windows_kwin4.tar.gz\"\ndef burnMyWindows(self):\n    pathDir=\"tmp\"\n    subprocess.run(\"rm -rf tmp/*\", shell=True)\n    if os.path.exists(f\"{home}/.local/share/kwin/effects\"):\n        shutil.rmtree(f\"{home}/.local/share/kwin/effects\")\n    subprocess.run(f\"wget {link} -P {pathDir}\", shell=True)\n    os.chdir(pathDir)\n    subprocess.run(f\"mkdir -p {home}/.local/share/kwin/effects\", shell=True)",
+        "detail": "lib.burnmywindows",
+        "documentation": {}
+    },
+    {
+        "label": "develPackages",
+        "kind": 2,
+        "importPath": "lib.devel",
+        "description": "lib.devel",
+        "peekOfCode": "def develPackages(self):\n    cmd = \"sudo pacman-mirrors -c Germany -m rank\"\n    subprocess.run(cmd, shell=True)\n    self.baseDevel.setEnabled(True)\n    self.baseDevel.setChecked(True)",
+        "detail": "lib.devel",
+        "documentation": {}
+    },
+    {
+        "label": "figma_linux",
+        "kind": 2,
+        "importPath": "lib.figma",
+        "description": "lib.figma",
+        "peekOfCode": "def figma_linux(self):\n    pathDir=\"tmp\"\n    if os.path.exists(pathDir) == True:\n        shutil.rmtree(pathDir, ignore_errors=False, onerror=None)\n    subprocess.run(f\"wget {link} -P {pathDir}\", shell=True)\n    os.chdir(pathDir)\n    subprocess.run(f\"sudo pacman -U --needed --noconfirm {pkg}\", shell=True)\n    os.chdir(\"..\")\n    if os.path.exists(f\"{pathDir}/{pkg}\") == True:\n        os.remove(f\"{pathDir}/{pkg}\")",
+        "detail": "lib.figma",
+        "documentation": {}
+    },
+    {
+        "label": "link",
+        "kind": 5,
+        "importPath": "lib.figma",
+        "description": "lib.figma",
+        "peekOfCode": "link = \"https://github.com/Figma-Linux/figma-linux/releases/download/v0.10.0/figma-linux_0.10.0_linux_x64.pacman\"\npkg=\"figma-linux_0.10.0_linux_x64.pacman\"\ndef figma_linux(self):\n    pathDir=\"tmp\"\n    if os.path.exists(pathDir) == True:\n        shutil.rmtree(pathDir, ignore_errors=False, onerror=None)\n    subprocess.run(f\"wget {link} -P {pathDir}\", shell=True)\n    os.chdir(pathDir)\n    subprocess.run(f\"sudo pacman -U --needed --noconfirm {pkg}\", shell=True)\n    os.chdir(\"..\")",
+        "detail": "lib.figma",
+        "documentation": {}
+    },
+    {
+        "label": "git",
+        "kind": 2,
+        "importPath": "lib.git",
+        "description": "lib.git",
+        "peekOfCode": "def git(link=\"\", outputName=\"\"):\n    subprocess.run(f\"git clone {link} {outputName}\", shell=True)",
+        "detail": "lib.git",
+        "documentation": {}
+    },
+    {
+        "label": "mirrorList",
+        "kind": 2,
+        "importPath": "lib.mirrorlist",
+        "description": "lib.mirrorlist",
+        "peekOfCode": "def mirrorList(self):\n    cmd = \"sudo pacman-mirrors -c Germany -m rank\"\n    subprocess.run(cmd, shell=True)\n    self.mirrorlist.setEnabled(True)\n    self.mirrorlist.setChecked(True)",
+        "detail": "lib.mirrorlist",
+        "documentation": {}
+    },
+    {
+        "label": "OneDrive",
+        "kind": 2,
+        "importPath": "lib.onedrive",
+        "description": "lib.onedrive",
+        "peekOfCode": "def OneDrive(self):\n    pathDir=\"tmp/onedrive\"\n    if os.path.exists(pathDir) == True:\n        shutil.rmtree(pathDir, ignore_errors=False, onerror=None)\n    git(f\"https://aur.archlinux.org/onedrive-abraunegg {pathDir}\")\n    os.chdir(pathDir)\n    subprocess.run(\"makepkg -sri --skipchecksums --nocheck --noconfirm\", shell=True)\n    os.chdir(\"../..\")\n    if os.path.exists(pathDir) == True:\n        shutil.rmtree(pathDir, ignore_errors=False, onerror=None)",
+        "detail": "lib.onedrive",
+        "documentation": {}
+    },
+    {
+        "label": "OneDriveGui",
+        "kind": 2,
+        "importPath": "lib.onedrivegui",
+        "description": "lib.onedrivegui",
+        "peekOfCode": "def OneDriveGui(self):\n    pathDir=\"tmp/onedrivegui\"\n    if os.path.exists(pathDir) == True:\n        shutil.rmtree(pathDir, ignore_errors=False, onerror=None)\n    git(f\"https://aur.archlinux.org/onedrivegui-git {pathDir}\")\n    os.chdir(pathDir)\n    subprocess.run(\"makepkg -sri --skipchecksums --nocheck --noconfirm\", shell=True)\n    os.chdir(\"../..\")\n    if os.path.exists(pathDir) == True:\n        shutil.rmtree(pathDir, ignore_errors=False, onerror=None)",
+        "detail": "lib.onedrivegui",
+        "documentation": {}
+    },
+    {
+        "label": "packageManager",
+        "kind": 2,
+        "importPath": "lib.packagemanager",
+        "description": "lib.packagemanager",
+        "peekOfCode": "def packageManager(self):\n        pathDir=\"tmp/yay\"\n        if os.path.exists(pathDir) == True:\n            shutil.rmtree(pathDir, ignore_errors=False, onerror=None)\n        git(f\"https://aur.archlinux.org/yay {pathDir}\")\n        os.chdir(pathDir)\n        subprocess.run(\"makepkg -sri --skipchecksums --nocheck --noconfirm\", shell=True)\n        os.chdir(\"../..\")\n        if os.path.exists(pathDir) == True:\n            shutil.rmtree(pathDir, ignore_errors=False, onerror=None)",
+        "detail": "lib.packagemanager",
+        "documentation": {}
+    },
+    {
+        "label": "purpleBitches",
+        "kind": 2,
+        "importPath": "lib.purpleBitches",
+        "description": "lib.purpleBitches",
+        "peekOfCode": "def purpleBitches(self):\n    if os.path.exists(f\"{icons_path}/PurpleBitch-Icons\"):\n        shutil.rmtree(f\"{icons_path}/PurpleBitch-Icons\")\n    if os.path.exists(icons_path) == False:\n        os.mkdir(icons_path)\n    git(f\"{link_icons} {icons_path}/PurpleBitch-Icons\")\n    if os.path.exists(f\"{plasma_path}/PurpleBitch-Plasma\"):\n        shutil.rmtree(f\"{plasma_path}/PurpleBitch-Plasma\")\n    if os.path.exists(icons_path) == False:\n        os.mkdir(plasma_path)",
+        "detail": "lib.purpleBitches",
+        "documentation": {}
+    },
+    {
+        "label": "link_icons",
+        "kind": 5,
+        "importPath": "lib.purpleBitches",
+        "description": "lib.purpleBitches",
+        "peekOfCode": "link_icons = \"https://github.com/sl33pz/PurpleBitch-Icons\"\nlink_plasma = \"https://github.com/sl33pz/PurpleBitch-Plasma\"\nlink_sddm = \"https://github.com/sl33pz/PurpleBitch-SDDM\"\nhome = os.path.expanduser( '~' )\nicons_path = f\"{home}/.local/share/icons\"\nplasma_path = f\"{home}/.local/share/plasma/desktoptheme\"\nsddm_path = f\"{home}/.local/share/sddm/themes\"\ndef purpleBitches(self):\n    if os.path.exists(f\"{icons_path}/PurpleBitch-Icons\"):\n        shutil.rmtree(f\"{icons_path}/PurpleBitch-Icons\")",
+        "detail": "lib.purpleBitches",
+        "documentation": {}
+    },
+    {
+        "label": "link_plasma",
+        "kind": 5,
+        "importPath": "lib.purpleBitches",
+        "description": "lib.purpleBitches",
+        "peekOfCode": "link_plasma = \"https://github.com/sl33pz/PurpleBitch-Plasma\"\nlink_sddm = \"https://github.com/sl33pz/PurpleBitch-SDDM\"\nhome = os.path.expanduser( '~' )\nicons_path = f\"{home}/.local/share/icons\"\nplasma_path = f\"{home}/.local/share/plasma/desktoptheme\"\nsddm_path = f\"{home}/.local/share/sddm/themes\"\ndef purpleBitches(self):\n    if os.path.exists(f\"{icons_path}/PurpleBitch-Icons\"):\n        shutil.rmtree(f\"{icons_path}/PurpleBitch-Icons\")\n    if os.path.exists(icons_path) == False:",
+        "detail": "lib.purpleBitches",
+        "documentation": {}
+    },
+    {
+        "label": "link_sddm",
+        "kind": 5,
+        "importPath": "lib.purpleBitches",
+        "description": "lib.purpleBitches",
+        "peekOfCode": "link_sddm = \"https://github.com/sl33pz/PurpleBitch-SDDM\"\nhome = os.path.expanduser( '~' )\nicons_path = f\"{home}/.local/share/icons\"\nplasma_path = f\"{home}/.local/share/plasma/desktoptheme\"\nsddm_path = f\"{home}/.local/share/sddm/themes\"\ndef purpleBitches(self):\n    if os.path.exists(f\"{icons_path}/PurpleBitch-Icons\"):\n        shutil.rmtree(f\"{icons_path}/PurpleBitch-Icons\")\n    if os.path.exists(icons_path) == False:\n        os.mkdir(icons_path)",
+        "detail": "lib.purpleBitches",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 5,
+        "importPath": "lib.purpleBitches",
+        "description": "lib.purpleBitches",
+        "peekOfCode": "home = os.path.expanduser( '~' )\nicons_path = f\"{home}/.local/share/icons\"\nplasma_path = f\"{home}/.local/share/plasma/desktoptheme\"\nsddm_path = f\"{home}/.local/share/sddm/themes\"\ndef purpleBitches(self):\n    if os.path.exists(f\"{icons_path}/PurpleBitch-Icons\"):\n        shutil.rmtree(f\"{icons_path}/PurpleBitch-Icons\")\n    if os.path.exists(icons_path) == False:\n        os.mkdir(icons_path)\n    git(f\"{link_icons} {icons_path}/PurpleBitch-Icons\")",
+        "detail": "lib.purpleBitches",
+        "documentation": {}
+    },
+    {
+        "label": "icons_path",
+        "kind": 5,
+        "importPath": "lib.purpleBitches",
+        "description": "lib.purpleBitches",
+        "peekOfCode": "icons_path = f\"{home}/.local/share/icons\"\nplasma_path = f\"{home}/.local/share/plasma/desktoptheme\"\nsddm_path = f\"{home}/.local/share/sddm/themes\"\ndef purpleBitches(self):\n    if os.path.exists(f\"{icons_path}/PurpleBitch-Icons\"):\n        shutil.rmtree(f\"{icons_path}/PurpleBitch-Icons\")\n    if os.path.exists(icons_path) == False:\n        os.mkdir(icons_path)\n    git(f\"{link_icons} {icons_path}/PurpleBitch-Icons\")\n    if os.path.exists(f\"{plasma_path}/PurpleBitch-Plasma\"):",
+        "detail": "lib.purpleBitches",
+        "documentation": {}
+    },
+    {
+        "label": "plasma_path",
+        "kind": 5,
+        "importPath": "lib.purpleBitches",
+        "description": "lib.purpleBitches",
+        "peekOfCode": "plasma_path = f\"{home}/.local/share/plasma/desktoptheme\"\nsddm_path = f\"{home}/.local/share/sddm/themes\"\ndef purpleBitches(self):\n    if os.path.exists(f\"{icons_path}/PurpleBitch-Icons\"):\n        shutil.rmtree(f\"{icons_path}/PurpleBitch-Icons\")\n    if os.path.exists(icons_path) == False:\n        os.mkdir(icons_path)\n    git(f\"{link_icons} {icons_path}/PurpleBitch-Icons\")\n    if os.path.exists(f\"{plasma_path}/PurpleBitch-Plasma\"):\n        shutil.rmtree(f\"{plasma_path}/PurpleBitch-Plasma\")",
+        "detail": "lib.purpleBitches",
+        "documentation": {}
+    },
+    {
+        "label": "sddm_path",
+        "kind": 5,
+        "importPath": "lib.purpleBitches",
+        "description": "lib.purpleBitches",
+        "peekOfCode": "sddm_path = f\"{home}/.local/share/sddm/themes\"\ndef purpleBitches(self):\n    if os.path.exists(f\"{icons_path}/PurpleBitch-Icons\"):\n        shutil.rmtree(f\"{icons_path}/PurpleBitch-Icons\")\n    if os.path.exists(icons_path) == False:\n        os.mkdir(icons_path)\n    git(f\"{link_icons} {icons_path}/PurpleBitch-Icons\")\n    if os.path.exists(f\"{plasma_path}/PurpleBitch-Plasma\"):\n        shutil.rmtree(f\"{plasma_path}/PurpleBitch-Plasma\")\n    if os.path.exists(icons_path) == False:",
+        "detail": "lib.purpleBitches",
+        "documentation": {}
+    },
+    {
+        "label": "simpleLauncher",
+        "kind": 2,
+        "importPath": "lib.simplestupidlauncher",
+        "description": "lib.simplestupidlauncher",
+        "peekOfCode": "def simpleLauncher(self):\n    pathDir=\"tmp/simpleLauncher\"\n    if os.path.exists(pathDir) == True:\n        shutil.rmtree(pathDir, ignore_errors=False, onerror=None)\n    if os.path.exists(f\"{plasmoidPath}/stupidsimplelauncher\") == True:\n        shutil.rmtree(f\"{plasmoidPath}/stupidsimplelauncher\", ignore_errors=False, onerror=None)\n    git(f\"https://www.github.com/heqro/stupid-simple-launcher {pathDir}\")\n    os.chdir('tmp')\n    subprocess.run(\"kpackagetool5 -t Plasma/Applet --install simpleLauncher/v1\", shell=True)\n    os.chdir(\"..\")",
+        "detail": "lib.simplestupidlauncher",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 5,
+        "importPath": "lib.simplestupidlauncher",
+        "description": "lib.simplestupidlauncher",
+        "peekOfCode": "home = os.path.expanduser( '~' )\nplasmoidPath=f\"{home}/.local/share/plasma/plasmoids\"\ndef simpleLauncher(self):\n    pathDir=\"tmp/simpleLauncher\"\n    if os.path.exists(pathDir) == True:\n        shutil.rmtree(pathDir, ignore_errors=False, onerror=None)\n    if os.path.exists(f\"{plasmoidPath}/stupidsimplelauncher\") == True:\n        shutil.rmtree(f\"{plasmoidPath}/stupidsimplelauncher\", ignore_errors=False, onerror=None)\n    git(f\"https://www.github.com/heqro/stupid-simple-launcher {pathDir}\")\n    os.chdir('tmp')",
+        "detail": "lib.simplestupidlauncher",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMonitor",
+        "kind": 2,
+        "importPath": "lib.systemMonitor",
+        "description": "lib.systemMonitor",
+        "peekOfCode": "def SystemMonitor(self):\n    print(os.getcwd())\n    pathDir=\"tmp/simpleMonitor\"\n    if os.path.exists(pathDir) == True:\n        shutil.rmtree(pathDir, ignore_errors=False, onerror=None)\n    if os.path.exists(f\"{plasmoidPath}/org.kde.simpleMonitor\") == True:\n        shutil.rmtree(f\"{plasmoidPath}/org.kde.simpleMonitor\", ignore_errors=False, onerror=None)\n    git(f\"https://github.com/dhabyx/plasma-simpleMonitor {pathDir}\")\n    os.chdir('tmp/simpleMonitor')\n    subprocess.run(\"plasmapkg2 -t plasmoid -i ./plasmoid\", shell=True)",
+        "detail": "lib.systemMonitor",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 5,
+        "importPath": "lib.systemMonitor",
+        "description": "lib.systemMonitor",
+        "peekOfCode": "home = os.path.expanduser( '~' )\nplasmoidPath=f\"{home}/.local/share/plasma/plasmoids\"\ndef SystemMonitor(self):\n    print(os.getcwd())\n    pathDir=\"tmp/simpleMonitor\"\n    if os.path.exists(pathDir) == True:\n        shutil.rmtree(pathDir, ignore_errors=False, onerror=None)\n    if os.path.exists(f\"{plasmoidPath}/org.kde.simpleMonitor\") == True:\n        shutil.rmtree(f\"{plasmoidPath}/org.kde.simpleMonitor\", ignore_errors=False, onerror=None)\n    git(f\"https://github.com/dhabyx/plasma-simpleMonitor {pathDir}\")",
+        "detail": "lib.systemMonitor",
+        "documentation": {}
+    },
+    {
+        "label": "Progress",
+        "kind": 6,
+        "importPath": "Installer",
+        "description": "Installer",
+        "peekOfCode": "class Progress(QThread):\n    _signal = Signal(int)\n    def __init__(self):\n        super(Progress, self).__init__()\n    def __del__(self):\n        self.wait()\n    def run(self):\n        os.chdir('src')\n        print(os.getcwd())\n        with open('packages.txt', 'r') as f:",
+        "detail": "Installer",
+        "documentation": {}
+    },
+    {
+        "label": "MainWindow",
+        "kind": 6,
+        "importPath": "Installer",
+        "description": "Installer",
+        "peekOfCode": "class MainWindow(QWidget):\n    def __init__(self):\n        super(MainWindow, self).__init__()\n        self.resize(800, 600)\n        sizePolicy = QSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding)\n        sizePolicy.setHorizontalStretch(0)\n        sizePolicy.setVerticalStretch(0)\n        sizePolicy.setHeightForWidth(self.sizePolicy().hasHeightForWidth())\n        self.setSizePolicy(sizePolicy)\n        self.setStyleSheet(u\"\")",
+        "detail": "Installer",
+        "documentation": {}
+    },
+    {
+        "label": "checkConnection",
+        "kind": 2,
+        "importPath": "Installer",
+        "description": "Installer",
+        "peekOfCode": "def checkConnection():\n    try:\n        request.urlopen('http://google.com')\n        return True\n    except:\n        return False\nif __name__ == \"__main__\":\n    global connection\n    connection = checkConnection()\n    app = QApplication(sys.argv)",
+        "detail": "Installer",
+        "documentation": {}
+    }
+]
